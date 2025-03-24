@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/honor/OneDrive/Bureau/imac/cpp/s2/S2_TD02_NPI/build",
+  "command": "C:\\Winlibs\\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r1\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\Users\\honor\\OneDrive\\Bureau\\imac\\cpp\\s2\\S2_TD02_NPI\\src\\main.cpp",
+  "file": "C:/Users/honor/OneDrive/Bureau/imac/cpp/s2/S2_TD02_NPI/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+}
+]
