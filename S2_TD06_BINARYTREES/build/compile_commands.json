@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/honor/OneDrive/Bureau/imac/cpp/s2/S2_TD06_BINARYTREES/build",
+  "command": "C:\\Winlibs\\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r1\\mingw64\\bin\\c++.exe -IC:/Users/honor/OneDrive/Bureau/imac/cpp/s2/S2_TD06_BINARYTREES/src -g -std=gnu++20 -o CMakeFiles\\binary_tree.dir\\src\\main.cpp.obj -c C:\\Users\\honor\\OneDrive\\Bureau\\imac\\cpp\\s2\\S2_TD06_BINARYTREES\\src\\main.cpp",
+  "file": "C:\\Users\\honor\\OneDrive\\Bureau\\imac\\cpp\\s2\\S2_TD06_BINARYTREES\\src\\main.cpp",
+  "output": "CMakeFiles\\binary_tree.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/honor/OneDrive/Bureau/imac/cpp/s2/S2_TD06_BINARYTREES/build",
+  "command": "C:\\Winlibs\\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r1\\mingw64\\bin\\c++.exe -IC:/Users/honor/OneDrive/Bureau/imac/cpp/s2/S2_TD06_BINARYTREES/src -g -std=gnu++20 -o CMakeFiles\\binary_tree.dir\\src\\node.cpp.obj -c C:\\Users\\honor\\OneDrive\\Bureau\\imac\\cpp\\s2\\S2_TD06_BINARYTREES\\src\\node.cpp",
+  "file": "C:\\Users\\honor\\OneDrive\\Bureau\\imac\\cpp\\s2\\S2_TD06_BINARYTREES\\src\\node.cpp",
+  "output": "CMakeFiles\\binary_tree.dir\\src\\node.cpp.obj"
+}
+]
